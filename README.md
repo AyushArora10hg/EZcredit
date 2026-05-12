@@ -15,7 +15,7 @@
 
 ## Quick Links
 
-- [Download APK](https://1drv.ms/u/c/931d74c7905f6350/IQCX_EIrsBmaRox9XoGeLCiKAcH83JBc4J4O8bj23Aqzavo?e=7l6v94)
+- [Download APK](https://drive.google.com/file/d/18__9RzaufhRY0M1HGlIvEj9O_pxsm4-J/view?usp=sharing)
 - [View Source Code](https://github.com/DakshArora07/Android_EZcredit)
 - [Final Presentation](https://youtu.be/iZ0tL8lbQ88)
 - [Project Pitch](https://youtu.be/o5EsZg6VefA)
